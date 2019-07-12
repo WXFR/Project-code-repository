@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body{
+    #background:url("images/八卦.png") no-repeat;
+    background-color:rgb(223,204,204);
+}
